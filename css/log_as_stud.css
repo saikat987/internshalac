@@ -1,0 +1,81 @@
+.navbar-brand{
+    padding:50px;
+ 
+ }
+  #hire_intern_process {
+     background-color: #fff;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     margin-left: 50px;
+     text-align: center;
+ }
+ max-width-container {
+     max-width: 1300px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .card-header:first-child {
+     border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+ }
+ .info-color {
+     background-color: #33b5e5!important;
+ }
+ .btn[class*=btn-outline-] {
+     padding-top: .7rem;
+     padding-bottom: .7rem;
+ }
+ [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+     cursor: pointer;
+ }
+ .btn-rounded {
+     border-radius: 10em;
+ }
+ .btn-floating.btn-sm i {
+     font-size: .96154rem;
+     line-height: 36.15385px;
+ }
+ .btn-floating i {
+     display: inline-block;
+     width: inherit;
+     text-align: center;
+     color: #fff;
+ }
+ .btn-floating i {
+     font-size: 1.25rem;
+     line-height: 47px;
+ }
+ .fab {
+     font-family: 'Font Awesome 5 Brands';
+ }
+ .fa, .fab, .fal, .far, .fas {
+     -moz-osx-font-smoothing: grayscale;
+     -webkit-font-smoothing: antialiased;
+     display: inline-block;
+     font-style: normal;
+     font-variant: normal;
+     text-rendering: auto;
+     line-height: 1;
+ }
+ .fa-facebook-f:before {
+     content: "\f39e";
+ }
+ *, ::after, ::before {
+     box-sizing: border-box;
+ }.fa-twitter:before {
+     content: "\f099";
+ }
+ .fa-linkedin-in:before {
+     content: "\f0e1";
+ }
+ .fa-github:before {
+     content: "\f09b";
+ }.btn-floating.btn-sm i {
+     font-size: .96154rem;
+     line-height: 36.15385px;
+ }
+ .btn-floating i {
+     display: inline-block;
+     width: inherit;
+     text-align: center;
+     color: #fff;
+ }
